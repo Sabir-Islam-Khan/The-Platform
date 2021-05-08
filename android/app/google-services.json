@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "20855801684",
+    "project_id": "the-platform-7d563",
+    "storage_bucket": "the-platform-7d563.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20855801684:android:5b16b84d1a84583c20aac1",
+        "android_client_info": {
+          "package_name": "AsteriskLab.the_platform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20855801684-disev6tj8n68m9svu8f24qj2t3kmh1bv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "AsteriskLab.the_platform",
+            "certificate_hash": "1e37cdaf0737c02f90b47f916685176945cac15b"
+          }
+        },
+        {
+          "client_id": "20855801684-7tp6l59gpvr6vhpqo2pru6s12hk7at28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-4L3cABl2UgdFM76q5roexz_NW9Hw1JA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20855801684-7tp6l59gpvr6vhpqo2pru6s12hk7at28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
